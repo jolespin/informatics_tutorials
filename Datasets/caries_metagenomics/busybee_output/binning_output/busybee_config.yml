@@ -1,0 +1,8 @@
+kmer: 5
+border_seq_length: 1000
+cluster_seq_length: 2000
+minPts: 30
+probability_thresh: 0.000000
+seed: 0
+transform_with: "standard"
+enable_compression: 0
