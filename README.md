@@ -1,3 +1,3 @@
-**16S rRNA Amplicon Dataset**
+1. **16S rRNA Amplicon Dataset**
 
-**Shotgun Metagenomics Mock Dataset (bin_1 - bin_5)**
+2. **Shotgun Metagenomics Mock Dataset (bin_1 - bin_5)**
