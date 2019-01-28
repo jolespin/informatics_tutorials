@@ -6,6 +6,6 @@
   * orfs.ffn: DNA sequences of ORFs
   * annotation.tsv.gz: Annotations for each ORF
   
-*Note: This data is used for tutorial purposes and only includes a subset of bins (1-5). Please refer to the [source](https://mbio.asm.org/content/9/6/e01631-18 for exact items used in publication.*
+*Note: This data is used for tutorial purposes and only includes a subset of bins (1-5). Please refer to the [source](https://mbio.asm.org/content/9/6/e01631-18) for exact items used in publication.*
   
   
